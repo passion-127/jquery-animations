@@ -6,16 +6,16 @@ For the user, it could be easy to use jQuery method to perform and combine the a
 For the developer, it could be easy to develop cross browser CSS3 animations by using JavaScript.
 
 ## Download
-[Compress](https://raw.github.com/emn178/jquery-animations/master/build/jquery.animations.min.js)  
-[Uncompress](https://raw.github.com/emn178/jquery-animations/master/build/jquery.animations.js)
+[Compress](https://raw.github.com/passion-127/jquery-animations/master/build/jquery.animations.min.js)  
+[Uncompress](https://raw.github.com/passion-127/jquery-animations/master/build/jquery.animations.js)
 
 ## Demo
-[Effects](http://emn178.github.io/jquery-animations/samples/effects/)  
-[Integrate with CSS Library](http://jsfiddle.net/emn178/vN8V8/)
+[Effects](http://passion-127.github.io/jquery-animations/samples/effects/)  
+[Integrate with CSS Library](http://jsfiddle.net/passion-127/vN8V8/)
 
 ## Plugins
-[jQuery-animations-tile](https://github.com/emn178/jquery-animations-tile)  
-[jQuery-animations-spotlight](https://github.com/emn178/jquery-animations-spotlight)
+[jQuery-animations-tile](https://github.com/passion-127/jquery-animations-tile)  
+[jQuery-animations-spotlight](https://github.com/passion-127/jquery-animations-spotlight)
 
 ## Browser Support
 jQuery-animations currently supports IE10+, Chrome, Firefox, Safari and Opera.
@@ -29,7 +29,7 @@ Perform CSS3 animations. This method extends from [jQuery.animate()](https://api
 
 Sets the animation ID(s) or name(s) you want to perform. It could be a mutiple animations by including each one separated by a space.
 
-Available animations please refer to [Effects](http://emn178.github.io/jquery-animations/samples/effects/).
+Available animations please refer to [Effects](http://passion-127.github.io/jquery-animations/samples/effects/).
 
 ID means that predined in JavaScript plugins, and name means that declares in CSS.
 
@@ -452,5 +452,5 @@ Coming soon.
 The project is released under the [MIT license](http://www.opensource.org/licenses/MIT).
 
 ## Contact
-The project's website is located at https://github.com/emn178/jquery-animations  
-Author: emn178@gmail.com
+The project's website is located at https://github.com/passion-127/jquery-animations  
+Author: passion-127@gmail.com
